@@ -3,9 +3,9 @@ Hello World!
 
 Brief introduction of me:
 -
-> Programming Beginner
-> Familiar with: Python
-> Majoring in PHYS in HKUST
+ Programming Beginner; gaining experience from various online resource <br>
+ Familiar with: Python <br>
+ BCs in PHYS from HKUST
 
 (Last modified: 30/10/2024)
 <!---
